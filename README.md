@@ -4,12 +4,12 @@
 
   <p>
     <a href="https://github.com/marizadev/awesome-readme-template/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/marizadev/portfolio" alt="contributors" />
+      <img src="https://img.shields.io/github/contributors/marizadev/portfolioarte" alt="contributors" />
     </a>
   </p>
     <h4>
       <span> · </span>
-        <a target="_blank" href="https://marizadev.github.io/portfolio/">View Demo</a>
+        <a target="_blank" href="https://marizadev.github.io/portfolioarte/">View Demo</a>
       <span> · </span>
     </h4>
 </div>
@@ -19,14 +19,13 @@ Portfólio Artísticos desenhos digitais.
 
 ## :camera: Layout da página inicial
 
- <img src="https://github.com/marizadev/portfolio/blob/main/imagens/print.png" alt="Página inicial"  />
+ <img src="https://github.com/MarizaDEV/portfolioarte/blob/main/imagens/arte1.png" alt="Página inicial"  />
 ### :compass: Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Responsividade das páginas;
-- [ ] Adicionar novos projetos;
-- [ ] Acessibilidade;
+- [ ] Adicionar novos desenhos;
+
 
 ## :space_invader: Tecnologias utilizadas
 - HTML
